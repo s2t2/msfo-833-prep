@@ -1,0 +1,12 @@
+
+
+
+.DS_Store
+
+
+.env
+
+assignments/
+notebooks/
+notebooks/.ipynb_checkpoints
+notebooks/*SOLUTIONS*.ipynb

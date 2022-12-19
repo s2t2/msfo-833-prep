@@ -1,0 +1,19 @@
+
+# notebooks:
+jupyter
+
+# data processing:
+numpy
+
+pandas
+# Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+#openpyxl
+
+# dataviz:
+matplotlib
+seaborn
+plotly
+
+# regression / data science
+# Plotly Express allows you to add Ordinary Least Squares regression trendline to scatterplots with the trendline argument. In order to do so, you will need to install statsmodels and its dependencies. Hovering over the trendline will show the equation of the line and its R-squared value.
+statsmodels
